@@ -2,7 +2,7 @@
 
 > [EasySpacy sur Instagram](https://www.instagram.com/easyspacy/)
 
-> [Lien de mon Moodboard sur Milanote]()
+> [Lien de mon Moodboard sur Milanote](https://app.milanote.com/1LhPti1REset2z?p=3gHDxegoUCN)
 ***
 
 ## 1. Présentation
@@ -45,7 +45,6 @@ Leurs logos est présent partout mais ils ont également un logo "responsive" qu
 - Dynamique (mouse Hover)
 - Formulaire de contact (avec option : message, avis, question, suggestion, thème à proposer etc)
 
-
 4.  Pages
 
 - Capsule (accueil?)
@@ -67,4 +66,150 @@ Leurs logos est présent partout mais ils ont également un logo "responsive" qu
 - Mettre en avant leurs mails professionnels et leurs compte IG
 - Footer
     - charte graphique
-    - Information pour ralayer informations
+    - Information 
+
+## Plan de site
+
+### Élément principaux sur toutes les pages
+
+**Header :**
+
+- Logo Easy Spacy
+- Navigation principale
+- Barre de recherche
+
+**Footer :**
+
+- Navigation principale
+- Navigation secondaire (presse)
+- Réseaux sociaux
+- Privacy policy
+
+### Accueil
+
+**Objectif :**
+
+> Mettre en avant les capsules
+
+> Présenter Sarah JOIRET et Léo COTTELEER, et leurs projets
+ 
+> Formulaire de contact
+
+
+**Contenu :**
+
+Section 'Capsules' :
+
+- Montrer la dernière capsules réalisé en date
+  - Nom de la capsules
+  - Texte descriptif de la capsule
+  - Image et/ou vidéo de la capsule
+- Call to action vers la capsule d'instagram
+
+Section 'Présentation' :
+
+- Nom et prénom de Sarah JOIRET
+  - Son petit personnage
+  - Photo d'elle si elle le désire
+  - Description de son métier et de ce qu'elle fait
+  - Call to action de ses capsules
+
+- Nom et prénom de Léo COTTELEER
+  - Son petit personnage
+  - Photo de lui s'il le désire
+  - Description de son métier et de ce qu'il fait
+  - Call to action de ses capsules
+  
+- Présentation du concept de Easy spacy
+  - Titre
+  - Explication
+  - Call to action vers la dernières capsules
+
+Section 'Contact' :
+
+- Formulaire de contact
+  - Nom et prénom
+  - Adresse e-mail
+  - Sujet (au choix)
+  - Message
+
+### Page Capsules
+
+**Objectif :**
+
+> Afficher toutes les capsules avec un système de pagination
+
+**Contenu :**
+
+- Listes de 10 à 15 capsules par pages
+  - Nom de la capsules
+  - Images principales de la capsules
+  - Lien vers la page de la capsules complète
+  - Call to action vers la page instagram de la capsules
+
+#### Page d'une seule capsule
+
+- Capsule
+  - Nom de la capsule
+  - Images et/ou vidéo des capsules
+  - Texte descriptif des capsules
+  - Call to action vers la page instagram de la capsule
+  
+### Page News
+
+**Objectif :**
+
+> Montrer les news de easy spacy
+ 
+> Se faire remarquer par la presse 
+
+**Contenu :**
+
+- Listes de news de Easy spacy
+  - Nom de l'article
+  - Image de l'article
+  - Informations de l'article
+  - Lien de l'article si nécessaire
+  
+
+### Page Á propos
+
+**Objectif :**
+
+> Informer les utilisateurs à propos de Easy spacy et de leurs créateurs
+
+**Contenu :**
+
+- Nom et prénom de Sarah JOIRET
+  - Son petit personnage
+  - Photo d'elle si elle le désire
+  - Description de son métier et de ce qu'elle fait
+  - Call to action de ses capsules
+
+- Nom et prénom de Léo COTTELEER
+  - Son petit personnage
+  - Photo de lui s'il le désire
+  - Description de son métier et de ce qu'il fait
+  - Call to action de ses capsules
+
+- Présentation du concept de Easy spacy
+  - Titre
+  - Explication
+  - Call to action vers la dernières capsules
+
+### Page Contact
+
+**Objectif :**
+
+> Pouvoir contacter les créateurs de Easy spacy
+
+**Contenu :**
+
+- Formulaire de contact
+  - Nom et prénom
+  - Adresse e-mail
+  - Sujet (au choix)
+  - Message
+
+## Stratégie
+
