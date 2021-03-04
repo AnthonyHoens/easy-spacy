@@ -104,6 +104,7 @@ Section 'Capsules' :
   - Nom de la capsules
   - Texte descriptif de la capsule
   - Image et/ou vidéo de la capsule
+- Lien vers les capsules
 - Call to action vers la capsule d'instagram
 
 Section 'Présentation' :
@@ -123,7 +124,7 @@ Section 'Présentation' :
 - Présentation du concept de Easy spacy
   - Titre
   - Explication
-  - Call to action vers la dernières capsules
+  - Call to action vers la dernière capsule
 
 Section 'Contact' :
 
@@ -195,7 +196,7 @@ Section 'Contact' :
 - Présentation du concept de Easy spacy
   - Titre
   - Explication
-  - Call to action vers la dernières capsules
+  - Call to action vers la dernière capsule
 
 ### Page Contact
 
@@ -213,3 +214,35 @@ Section 'Contact' :
 
 ## Stratégie
 
+### Éléments principaux sur toutes les pages
+
+**Liens :**
+
+Tout les liens seront mis en évidence via une transition
+
+**Sur toutes les pages :**
+
+Sur toutes les pages, la barre de navigation sera remplacé par le logo de easy spacy, la fusée descendra sur une cible telle la fusée de spaceX.
+
+Des animations et des transitions sur les textes et les images seront faites au scroll dès que l'on arrive dans une certaine zone, les animations se déclencheront pour donner plus de dynamisme au site pour qu'il soit moins statique
+
+
+### Accueil
+
+La dernière capsule sera directement sur la landing page pour montrer directement à l'utilisateur pour montrer ce que fait easy spacy.
+
+### Page Capsules
+
+Il y aura une liste de capsules avec un système de pagination, ce sera une liste de 10 à 15 capsules par pages, pour chacunes des capsules, il y aura aussi un lien vers la pages instagram qui changera de couleur au survol.
+
+### Page d'une seule capsule
+
+Les images et les vidéos pourront être changer via un slider, il y aura aussi un lien vers la pages instagram qui changera de couleur au survol
+
+### Page Á propos
+
+Il y aura une description des créateurs de easy spacy avec leurs icônes juste à côtés avec une image s'ils le désirent.
+
+### Page Contact
+
+Il y aura la possibilité d'envoyer un message aux créateurs de easy spacy en entrant le nom et le prénom, l'adresse e-mail, un sujet et un message. Les informations de contact seront à côté du formulaire.
